@@ -19,10 +19,7 @@ from Callbacks_Refactored import Callbacks
 # Module level GLOBALS
 GLOBAL_CONST = 42
 
-#add comments for git upload
-#changes
-#branch test
-
+오류가 있는 코드
 #=================================================================== 
 class OOP():
     def __init__(self, language='en'): 
