@@ -6,21 +6,7 @@ Ch08
 #======================
 # imports
 #======================
-import tkinter as tk
-from tkinter import ttk
-from tkinter import scrolledtext
-from tkinter import Menu
-from tkinter import Spinbox
-from ToolTip import ToolTip
-from threading import Thread
-from time import sleep
-from queue import Queue
-from tkinter import filedialog as fd
-from os import path 
-from tkinter import messagebox as mBox
-from LanguageResources import I18N
-from datetime import datetime
-from pytz import all_timezones, timezone
+
 
 # Module level GLOBALS
 GLOBAL_CONST = 42

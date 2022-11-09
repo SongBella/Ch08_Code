@@ -19,7 +19,8 @@ from Callbacks_Refactored import Callbacks
 # Module level GLOBALS
 GLOBAL_CONST = 42
 
-오류가 있는 코드
+#20220 11 09
+print("dd")
 #=================================================================== 
 class OOP():
     def __init__(self, language='en'): 
